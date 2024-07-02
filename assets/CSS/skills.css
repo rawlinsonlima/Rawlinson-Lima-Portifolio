@@ -1,0 +1,71 @@
+.skills {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-around;
+}
+
+.skills h3 {
+  font-weight: 700;
+}
+
+.hard-skills {
+  display: flex;
+  flex-direction: column;
+  max-width: 30%;
+  margin-bottom: 1rem;
+}
+
+.hard-skills-content {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0;
+
+  justify-content: flex-start;
+}
+
+.hard-skills-content li img {
+  width: 2.5rem;
+}
+
+.soft-skills {
+  display: flex;
+  flex-direction: column;
+  max-width: 30%;
+  margin-bottom: 1rem;
+}
+
+.soft-skills-content {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  list-style: none;
+  gap: 0.2rem;
+}
+
+.soft-skills-content li::before {
+  content: "";
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  margin-right: 0.5rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../img/icons/check-icon.svg);
+}
+
+@media only screen and (max-width: 919px) {
+  .skills {
+    flex-direction: column;
+    align-items: start;
+  }
+  .hard-skills {
+    max-width: 100%;
+  }
+  .soft-skills {
+    max-width: 100%;
+  }
+}
