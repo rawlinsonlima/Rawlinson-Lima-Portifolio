@@ -2,36 +2,57 @@
       "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/html-icon.svg"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/css-icon.svg"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/javascript-icon.svg"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/react-icon.svg"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/python-icon.svg"
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
-        }
+          "name": "Negociação Avançada",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/negociacao-icon.png"
+        },
+        {
+          "name": "Excel Avançado",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/excel-icon.png"
+        },
+        {
+          "name": "Power BI",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/powerbi-icon.png"
+        },
+        {
+          "name": "Tableau",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/tableal-icon.png"
+        },
+        {
+          "name": "Chat GPT",
+          "logo": "https://raw.githubusercontent.com/rawlinsonlima/Rawlinson-Lima-Portifolio/main/assets/img/skills-icons/gpt-icon.png"
+        }        
       ],
       "softSkills": [
-        "Empatia",
+        "Comunicação Eficiente",
         "Liderança",
         "Trabalho em equipe",
-        "Flexibilidade",
-        "Organização"
+        "Gestão de Processos",
+        "Organização",
+        "Resolução de Problemas",
+        "Visão Computacional",
+        "Tratamento e Análise de Dados",
+        "Visão Analítica",
+        "Logística"
       ]
     },
     "languages": [
