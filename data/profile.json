@@ -61,15 +61,21 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Pokedex Utilizando API",
+        "url": "https://github.com/rawlinsonlima/pokedex-js",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Criando uma Calculadora com JavaScript",
+        "url": "https://github.com/rawlinsonlima/calculadora-js",
+        "github": true
+      },
+      {
+        "name": "Resume - CV Online",
+        "url": "https://github.com/rawlinsonlima/resume",
         "github": true
       }
+
     ],
     "professionalExperience": [
       {
@@ -81,17 +87,61 @@
           "Preparação de Termos de Referências para licitações;",
           "Acompanhamento de pregões;",
           "Negociação de vendas na rede privada."
+        ]
+      },
+      {
+        "name": "Analista de Processos de Negócios / AG Advogados Associados",
+        "period": "mai de 2022 - jul de 2022",
+        "description": [
+          "Mapeamento dos Fluxos Administrativos;",
+          "Implantação do PPR;",
+          "Implantação do ciclo PCDA(qualidade contínua);",
+          "Edição e confecção de Fluxogramas, Manuais e POPs;",
+          "Controle e implantação de processos;",
+          "Gerenciamento e controle dos fluxos Administrativos."          
+        ]
+      },
+      {
+        "name": "Analista de Planejamento e Orçamento / Nutrê Alimentação",
+        "period": "fev de 2022 - abr de 2022",
+        "description": [
+          "Planejamento e controle do fluxo de pedidos de insumos para as unidades atendidas pela empresa;",
+          "Análise e desenvolvimento da logística de entregas;",
+          "Prestação de contas;",
+          "Cálculo de demandas das unidades;",
+          "Elaboração de estratégias de redução de custos;",
+          "Elaboração de Orçamentos;",
+          "Análise de custos operacionais."
       ]
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Gerente de Projeto / FCPC - Fundação Cearense de Pesquisa e Cultura",
+        "period": "mar de 2020 - jan de 2022",
+        "description": [
+          "Gestão e desenvolvimento do projeto;",
+          "Processos de licitação e compras diretas de equipamentos de unidades;",
+          "Controle de processos;",
+          "Acompanhamento de Entregas nacionais e internacionais;",
+          "Conduzir reuniões de coordenação;",
+          "Elaboração de Documentos, Certificados, Fluxogramas, e POPs;",
+          "Confecção de Termos de Referência de equipamentos e serviços;",
+          "Agendamento de Reuniões e Registro de Atas;",
+          "Acompanhamento de Processos de Licitação;",
+          "Compras Diretas;",
+          "Registro de Patentes."
+      ]
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Executivo de Vendas Técnicas / Style Leds Lights",
+        "period": "fev de 2018 - jan de 2020",
+        "description": [
+            "Representação de Lâmpadas de LED automotivas em Loja Virtual;",
+            "Vendas diretas;",
+            "Representação da marca de importadora;",
+            "Publicação de anúncios nas redes sociais e aplicativos marketing place;",
+            "Entrega e instalação do produto;",
+            "Suporte pós-vendas e garantia."
+      ]
       }
     ]
   }
