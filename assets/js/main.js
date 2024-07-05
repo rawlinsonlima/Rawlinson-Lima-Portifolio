@@ -33,10 +33,28 @@ function updatePortfolio(profileData) {
     .join("");
 }
 
+function updateprofessionalExperience(profileData) {
+  const professionalExperience = document.getElementById(
+    "profile.professionalExperience"
+  );
+  professionalExperience.innerHTML = profileData.professionalExperience
+    .map((job) => {
+      return `
+            <h3 class="title">${job.name}</h3>
+            <p class="job-time">${job.period}</p>
+            <ul class="job-description">
+              <li>${job.description}</li>
+            </ul>    
+      `;
+    })
+    .join("");
+}
+
 (async () => {
   const profileData = await fetchProfileData();
   updateSoftSkills(profileData);
   updateHardSkills(profileData);
   updateLanguages(profileData);
-  updatePortfolio(profileData);
+  // updatePortfolio(profileData);
+  updateprofessionalExperience(profileData);
 })();

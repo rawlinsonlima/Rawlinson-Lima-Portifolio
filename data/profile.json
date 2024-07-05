@@ -80,67 +80,34 @@
     {
       "name": "Executivo de Vendas / Editora Conceitos Educacional",
       "period": "jul de 2023 - dez de 2023",
-      "description": [
-        "Apresentação de portifólio de materiais didáticos e projetos Educacionais;",
-        "Negociação de vendas diretas aos municípios;",
-        "Preparação de Termos de Referências para licitações;",
-        "Acompanhamento de pregões;",
-        "Negociação de vendas na rede privada."
-      ]
+      "description": 
+        "Apresentação de portifólio de materiais didáticos e projetos Educacionais, Negociação de vendas diretas aos municípios, Preparação de Termos de Referências para licitações,Acompanhamento de pregões e Negociação de vendas na rede privada."
+      
     },
     {
       "name": "Analista de Processos de Negócios / AG Advogados Associados",
       "period": "mai de 2022 - jul de 2022",
-      "description": [
-        "Mapeamento dos Fluxos Administrativos;",
-        "Implantação do PPR;",
-        "Implantação do ciclo PCDA(qualidade contínua);",
-        "Edição e confecção de Fluxogramas, Manuais e POPs;",
-        "Controle e implantação de processos;",
-        "Gerenciamento e controle dos fluxos Administrativos."
-      ]
+      "description": 
+        "Mapeamento dos Fluxos Administrativos, Implantação do PPR, Implantação do ciclo PCDA(qualidade contínua), Edição e confecção de Fluxogramas, Manuais e POPs, Controle e implantação de processos e Gerenciamento e controle dos fluxos Administrativos."
+      
     },
     {
       "name": "Analista de Planejamento e Orçamento / Nutrê Alimentação",
       "period": "fev de 2022 - abr de 2022",
-      "description": [
-        "Planejamento e controle do fluxo de pedidos de insumos para as unidades atendidas pela empresa;",
-        "Análise e desenvolvimento da logística de entregas;",
-        "Prestação de contas;",
-        "Cálculo de demandas das unidades;",
-        "Elaboração de estratégias de redução de custos;",
-        "Elaboração de Orçamentos;",
-        "Análise de custos operacionais."
-      ]
+      "description": 
+        "Planejamento e controle do fluxo de pedidos de insumos para as unidades atendidas pela empresa, Análise e desenvolvimento da logística de entregas, Prestação de contas, Cálculo e demandas das unidades, Elaboração de estratégias de redução de custos, Elaboração de Orçamentos e Análise de custos operacionais."   
     },
     {
       "name": "Gerente de Projeto / FCPC - Fundação Cearense de Pesquisa e Cultura",
       "period": "mar de 2020 - jan de 2022",
-      "description": [
-        "Gestão e desenvolvimento do projeto;",
-        "Processos de licitação e compras diretas de equipamentos de unidades;",
-        "Controle de processos;",
-        "Acompanhamento de Entregas nacionais e internacionais;",
-        "Conduzir reuniões de coordenação;",
-        "Elaboração de Documentos, Certificados, Fluxogramas, e POPs;",
-        "Confecção de Termos de Referência de equipamentos e serviços;",
-        "Agendamento de Reuniões e Registro de Atas;",
-        "Acompanhamento de Processos de Licitação;",
-        "Compras Diretas;",
-        "Registro de Patentes."
-      ]
+      "description": 
+        "Gestão e desenvolvimento do projeto, Processos de licitação e compras diretas de equipamentos de unidades, Controle de processos, Acompanhamento de Entregas nacionais e internacionais, Conduzir reuniões de coordenação, Elaboração de Documentos, Certificados, Fluxogramas, e POPs, Confecção de Termos de Referência de equipamentos e serviços,Agendamento de Reuniões e Registro de Atas, Acompanhamento de Processos de Licitação, Compras Diretas e Registro de Patentes."
     },
     {
       "name": "Executivo de Vendas Técnicas / Style Leds Lights",
       "period": "fev de 2018 - jan de 2020",
-      "description": [
-        "Representação de Lâmpadas de LED automotivas em Loja Virtual;",
-        "Vendas diretas;",
-        "Representação da marca de importadora;",
-        "Publicação de anúncios nas redes sociais e aplicativos marketing place;",
-        "Entrega e instalação do produto;",
-        "Suporte pós-vendas e garantia."
-      ]
+      "description": 
+        "Representação de Lâmpadas de LED automotivas em Loja Virtual, Vendas diretas, Representação da marca de importadora, Publicação de anúncios nas redes sociais e aplicativos marketing place, Entrega e instalação do produto e Suporte pós-vendas e garantia."
       }
     ]
   }

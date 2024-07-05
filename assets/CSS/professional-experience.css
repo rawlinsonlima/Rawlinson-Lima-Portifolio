@@ -40,14 +40,3 @@
   list-style: none;
   margin-bottom: 0.25rem;
 }
-
-.professional-experience li::before {
-  content: "";
-  display: inline-block;
-  width: 0.75rem;
-  height: 0.75rem;
-  margin-right: 0.5rem;
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-image: url(../img/icons/check-icon.svg);
-}
