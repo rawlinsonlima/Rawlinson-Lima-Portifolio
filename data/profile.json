@@ -66,15 +66,16 @@
       "github": true
     },
     {
-      "name": "Criando uma Calculadora com JavaScript",
-      "url": "https://github.com/rawlinsonlima/calculadora-js",
-      "github": true
-    },
-    {
       "name": "Resume - CV Online",
       "url": "https://github.com/rawlinsonlima/resume",
       "github": true
+    },
+    {
+      "name": "Calculadora de Idade com JS",
+      "url": "https://rawlinsonlima.github.io/Age-Calculate-With-JS/",
+      "github": true
     }
+    
   ],
   "professionalExperience": [
     {
